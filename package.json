@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EgorYakunin/newsofspace/issues"
   },
-  "homepage": "https://github.com/EgorYakunin/newsofspace#readme"
+  "homepage": "https://github.com/EgorYakunin/newsofspace#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
